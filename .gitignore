@@ -1,0 +1,38 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Rider / JetBrains
+.idea/
+*.ipr
+*.iws
+*.iml
+
+# Logs
+*.log
+identification-log.txt
+export-log.txt
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Backup / temp
+*[Tt]emp/
+*.tmp
+*.bak
+*.old
+
+# OS-specific
+.DS_Store
+Thumbs.db
